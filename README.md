@@ -2,7 +2,7 @@
 
 A "default-to-off" FinOps tool. It warns you on Telegram when an EC2 server has been running too long, and **stops it automatically** unless you reply `KEEP ALIVE`.
 
-> Built by **[Your Name]**, [Your College], [Year]. Demo video: **[add video link]**
+ Demo video: **[add video link]**
 
 ## The problem
 
