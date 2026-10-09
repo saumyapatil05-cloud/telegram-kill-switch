@@ -2,8 +2,6 @@
 
 A "default-to-off" FinOps tool. It warns you on Telegram when an EC2 server has been running too long, and **stops it automatically** unless you reply `KEEP ALIVE`.
 
- Demo video: **[add video link]**
-
 ## The problem
 
 Cloud servers bill for every minute they run. Forgetting one (after a hackathon, an exam project or a pipeline test) can quietly cost $200 to $500 a month. AWS billing alarms only fire **after** the money is spent, and they send emails that get buried.
@@ -107,6 +105,5 @@ AWS offers building blocks such as CloudWatch alarms, Budgets actions and Instan
 - [ ] Add a CloudWatch CPU check so only idle servers are stopped
 - [ ] Support multiple regions and other services (RDS)
 
-## Author
-
-**[Your Name]** | [LinkedIn profile link] | [GitHub profile link]
+ linkedIn link :https://lnkd.in/p/dYWCfbn2
+ GitHub profile link:https://github.com/saumyapatil05-cloud/telegram-kill-switch.git
